@@ -1,0 +1,10 @@
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\obj\Debug\PSI scenariusz 3.1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\obj\Debug\PSI_scenariusz_3._1.Form1.resources
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\obj\Debug\PSI_scenariusz_3._1.Properties.Resources.resources
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\obj\Debug\PSI scenariusz 3.1.csproj.GenerateResource.Cache
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\obj\Debug\PSI scenariusz 3.1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\bin\Debug\PSI scenariusz 3.1.exe.config
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\bin\Debug\PSI scenariusz 3.1.exe
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\bin\Debug\PSI scenariusz 3.1.pdb
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\obj\Debug\PSI scenariusz 3.1.exe
+C:\Users\Aleksandra\Downloads\PSI-master\Scenariusz 3\src\PSI scenariusz 3.1\PSI scenariusz 3.1\obj\Debug\PSI scenariusz 3.1.pdb
